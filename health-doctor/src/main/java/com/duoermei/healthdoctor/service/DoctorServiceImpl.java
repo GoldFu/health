@@ -1,6 +1,6 @@
 package com.duoermei.healthdoctor.service;
 
-import com.duoermei.healthdoctor.model.Doctor;
+import com.duoermei.healthcommons.model.Doctor;
 import com.duoermei.healthdoctor.repository.DoctorRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

@@ -1,6 +1,7 @@
 package com.duoermei.healthdoctor.service;
 
-import com.duoermei.healthdoctor.model.Doctor;
+
+import com.duoermei.healthcommons.model.Doctor;
 
 /**
  * @Description: 医生中心的接口

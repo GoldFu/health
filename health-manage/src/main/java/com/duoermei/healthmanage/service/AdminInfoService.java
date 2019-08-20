@@ -12,10 +12,8 @@ import java.util.List;
  * @Date 2019/5/30
  * @Version V1.0
  **/
-@FeignClient(value = "health-manage")
 public interface AdminInfoService {
 
-    @RequestMapping("/admin/name")
     AdminInfo findAdminByNickName(String nickName);
 
 

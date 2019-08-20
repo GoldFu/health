@@ -1,7 +1,7 @@
 package com.duoermei.healthdoctor.security;
 
 
-import com.duoermei.healthdoctor.model.Doctor;
+import com.duoermei.healthcommons.model.Doctor;
 import com.duoermei.healthdoctor.repository.DoctorRepository;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

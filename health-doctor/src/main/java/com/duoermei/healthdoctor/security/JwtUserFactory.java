@@ -1,6 +1,6 @@
 package com.duoermei.healthdoctor.security;
 
-import com.duoermei.healthdoctor.model.Doctor;
+import com.duoermei.healthcommons.model.Doctor;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 

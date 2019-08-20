@@ -1,7 +1,7 @@
 package com.duoermei.healthclient.service;
 
-import com.duoermei.healthclient.model.UserInfo;
 import com.duoermei.healthclient.repository.UserInfoRepository;
+import com.duoermei.healthcommons.model.UserInfo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

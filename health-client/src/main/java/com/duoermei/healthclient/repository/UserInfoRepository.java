@@ -1,6 +1,6 @@
 package com.duoermei.healthclient.repository;
 
-import com.duoermei.healthclient.model.UserInfo;
+import com.duoermei.healthcommons.model.UserInfo;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.JpaSpecificationExecutor;
 

@@ -1,6 +1,6 @@
 package com.duoermei.healthclient.service;
 
-import com.duoermei.healthclient.model.UserInfo;
+import com.duoermei.healthcommons.model.UserInfo;
 
 /**
  * @Description: 用户中心的接口

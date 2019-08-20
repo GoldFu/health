@@ -50,6 +50,7 @@ public class AdminCtrl {
     @GetMapping("get")
     public JSONObject findAdminByAdminId(String adminId) {
         AdminInfo admin = adminInfoService.findAdminByAdminId(adminId);
+
         if (Objects.isNull(admin)) {
             return RespStatus.fail("查询有误");
         }
